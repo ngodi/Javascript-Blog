@@ -1,0 +1,36 @@
+html, body{
+	margin:auto;
+	padding: 20px;
+
+}
+
+.heading1{
+	background:#000000 ;
+	padding:5px;
+	border:2px solid #00ff00;
+	border-radius:5px;
+	box-shadow: 5px 5px #e6ffe6;
+	color:white;
+}
+
+.main1{
+	height: 800px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 20px;
+	
+}
+
+.input1{
+	color:gray;
+}
+
+.footer1{
+	height: 80px;
+	color:white;
+	text-align: center;
+	background:gray;
+	margin-top:10px;
+	border-radius: 5px;
+	padding:20px;
+}
